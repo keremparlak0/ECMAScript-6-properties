@@ -1,1 +1,2 @@
-# ECMAScript-6-properties
+- Udemy'den aldığım "Modern Web Geliştirme Kursu  Sıfırdan Sektörün Yükseklerine" kursundan aldığım notlardır. 
+- Açıklayıcı bir biçimde yazmaya çalıştım. Yorum satırları takip edilerek konular anlaşılabilir.
